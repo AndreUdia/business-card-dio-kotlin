@@ -1,6 +1,5 @@
 package com.cabomaldade.businescarddio
 
-import android.app.Application
+//import android.app.Application
 
-class App : Application() {
-}
+//class App : Application()
