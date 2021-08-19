@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">BusinesCardDIO</string>
     <string name="label_business_card">Cartão de Visita</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_name">Nome</string>
+    <string name="label_phone_number">Telefone</string>
+    <string name="label_mail_address">E-mail</string>
+    <string name="label_business_name">Empresa</string>
+    <string name="pick_color_indicator">Escolha Uma Cor</string>
+    <string name="label_submit">Confirmar</string>
 </resources>
