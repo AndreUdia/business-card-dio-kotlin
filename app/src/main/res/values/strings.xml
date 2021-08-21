@@ -8,4 +8,5 @@
     <string name="label_business_name">Empresa</string>
     <string name="pick_color_indicator">Escolha Uma Cor</string>
     <string name="label_submit">Confirmar</string>
+    <string name="label_show_success">Cartão Cadastrado Com Sucesso</string>
 </resources>
